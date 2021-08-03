@@ -1,0 +1,39 @@
+h1 {
+	color: red;
+}
+
+img {
+	width: 400px;
+
+}
+
+#thirdDiv {
+	height: 600px;
+	width: 500px;
+	background-color: red;
+	padding: 50px;
+	border-style: dashed;
+	border-width: 10px;
+	border-color: green;
+}
+
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+	
+}
+
+/*extra credits*/
+
+body{
+	background-image: url(https://www.vvsupremo.com/wp-content/uploads/2018/05/Pepperoni-Pizza-1.jpg);
+	background-repeat: no-repeat;
+}
+
+div {
+	text-align: center;
+}
+
+#thirdDiv {
+	margin: auto;
+}
